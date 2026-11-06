@@ -1,0 +1,102 @@
+{
+  "common": {
+    "appName": "KrushiMitra",
+    "tagline": "Smart farming, stronger harvests",
+    "skip": "Skip",
+    "next": "Next",
+    "back": "Back",
+    "continue": "Continue",
+    "getStarted": "Get Started",
+    "changeLanguage": "Change language",
+    "language": "Language"
+  },
+  "splash": {
+    "tagline": "Smart farming, stronger harvests"
+  },
+  "onboarding": {
+    "slideCount": "{{current}} of {{total}}",
+    "slides": {
+      "welcome": {
+        "eyebrow": "Welcome",
+        "title": "Welcome to KrushiMitra",
+        "description": "Your trusted farming companion for better decisions, healthier crops, and a stronger harvest."
+      },
+      "crops": {
+        "eyebrow": "Smart crop assistance",
+        "title": "Get the right advice at the right time",
+        "description": "Receive crop-specific guidance, pest alerts, and simple step-by-step recommendations throughout the season."
+      },
+      "weather": {
+        "eyebrow": "Weather and agriculture",
+        "title": "Plan every day with confidence",
+        "description": "Check local weather, rainfall, and seasonal insights tailored to your village and your crops."
+      },
+      "community": {
+        "eyebrow": "Farmer community",
+        "title": "Learn and grow together",
+        "description": "Share experiences, ask questions, and discover practical knowledge from farmers and experts near you."
+      }
+    }
+  },
+  "language": {
+    "title": "Choose your language",
+    "subtitle": "KrushiMitra will use this language across the app. You can change it anytime.",
+    "selected": "Selected",
+    "continue": "Continue",
+    "back": "Back"
+  },
+  "tabs": {
+    "home": "Home",
+    "explore": "Explore"
+  },
+  "home": {
+    "greeting": "Namaste, farmer",
+    "title": "Your farm, smarter every day",
+    "subtitle": "Simple guidance for healthier crops and better harvests.",
+    "weatherTitle": "Today's weather",
+    "weatherValue": "28°C · Partly cloudy",
+    "weatherHint": "Light rain expected in the evening.",
+    "cropTitle": "Crop advisory",
+    "cropValue": "Paddy · Vegetative stage",
+    "cropHint": "Apply the recommended dose of nitrogen this week.",
+    "communityTitle": "Farmer community",
+    "communityValue": "12 new discussions",
+    "communityHint": "See what farmers near you are asking.",
+    "quickActions": "Quick actions",
+    "exploreButton": "Explore knowledge",
+    "languageButton": "Change language",
+    "communityButton": "Open community",
+    "tipTitle": "Today's tip",
+    "tipBody": "Water early in the morning to reduce evaporation and keep soil moisture steady.",
+    "languageUpdated": "Language updated"
+  },
+  "explore": {
+    "title": "Explore",
+    "subtitle": "Practical knowledge for every stage of farming.",
+    "cropGuides": {
+      "title": "Crop guides",
+      "body": "Step-by-step guidance for sowing, nutrition, irrigation, and harvesting of major crops."
+    },
+    "weather": {
+      "title": "Weather and seasons",
+      "body": "Understand rainfall patterns and seasonal changes to plan irrigation and field work."
+    },
+    "soil": {
+      "title": "Soil health",
+      "body": "Learn simple ways to test soil, improve fertility, and protect soil moisture."
+    },
+    "pests": {
+      "title": "Pests and diseases",
+      "body": "Identify common pests and diseases early and choose safe, effective remedies."
+    },
+    "market": {
+      "title": "Market prices",
+      "body": "Check fair prices and the best time to sell your produce at nearby markets."
+    },
+    "community": {
+      "title": "Community knowledge",
+      "body": "Read real experiences and trusted advice shared by farmers and agricultural experts."
+    },
+    "readMore": "Learn more"
+  }
+}

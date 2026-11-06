@@ -69,3 +69,7 @@ Thumbs.db
 
 # ---- OS ----
 desktop.ini
+
+# Local PostgreSQL backups and helper files
+/pg_hba.conf.backup.*
+/stop
